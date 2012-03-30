@@ -1,3 +1,5 @@
+// Skips BSON documents in a file without actually parsing the elements of the
+// skipped documents.
 #include <endian.h>
 
 #include <stdint.h>
